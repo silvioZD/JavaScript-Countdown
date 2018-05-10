@@ -1,0 +1,34 @@
+#time {
+  text-align: center;
+  margin-top:1em;
+  font-size:2em;
+}
+
+h2 {
+  text-align: center;
+  margin:1em;
+
+}
+
+h4 {
+  text-align: center;
+  margin:1em;
+}
+
+.form {
+	display: block;
+	margin-top: 1em;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#countdown, #date {
+	display:block;
+	margin:2em auto;
+	font-size:20px;
+}
+
+body {
+	padding:10px;
+	background-color: #8bb1ed;
+}
